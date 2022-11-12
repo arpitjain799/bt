@@ -44,7 +44,7 @@ setup(
         "dev": [
             "black>=20.8b1",
             "codecov",
-            "cython>=0.25",
+            "cython>=0.29.25",
             "ffn>=0.3.5",
             "flake8",
             "flake8-black",
